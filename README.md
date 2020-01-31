@@ -1,1 +1,2 @@
-Cookies_Patti
+# Cookies_Counter
+Simple cookies counter in PHP .
